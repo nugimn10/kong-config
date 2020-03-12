@@ -1,0 +1,28 @@
+{
+  "created_at": 1583951968,
+  "destinations": null,
+  "headers": null,
+  "hosts": null,
+  "https_redirect_status_code": 426,
+  "id": "15ff35d9-a898-4d18-abb4-de74947647d8",
+  "methods": null,
+  "name": null,
+  "path_handling": "v0",
+  "paths": [
+    "/api/customer"
+  ],
+  "preserve_host": false,
+  "protocols": [
+    "http",
+    "https"
+  ],
+  "regex_priority": 0,
+  "service": {
+    "id": "b7671471-7918-4447-a11b-82d9f745fc78"
+  },
+  "snis": null,
+  "sources": null,
+  "strip_path": true,
+  "tags": null,
+  "updated_at": 1583951968
+}

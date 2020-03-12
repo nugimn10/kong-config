@@ -1,0 +1,27 @@
+{
+  "config": {
+    "anonymous": null,
+    "hide_credentials": false,
+    "key_in_body": false,
+    "key_names": [
+      "apikey"
+    ],
+    "run_on_preflight": true
+  },
+  "consumer": null,
+  "created_at": 1583980588,
+  "enabled": true,
+  "id": "0759b4e9-f575-4406-af95-745b8cb44632",
+  "name": "key-auth",
+  "protocols": [
+    "grpc",
+    "grpcs",
+    "http",
+    "https"
+  ],
+  "route": null,
+  "service": {
+    "id": "86bd2788-92a8-4b30-b115-ee32d3c72ca7"
+  },
+  "tags": null
+}

@@ -1,0 +1,16 @@
+{
+  "client_certificate": null,
+  "connect_timeout": 60000,
+  "created_at": 1583952740,
+  "host": "nugimn-productservices",
+  "id": "86bd2788-92a8-4b30-b115-ee32d3c72ca7",
+  "name": "productservices",
+  "path": "/product",
+  "port": 5002,
+  "protocol": "http",
+  "read_timeout": 60000,
+  "retries": 5,
+  "tags": null,
+  "updated_at": 1583952740,
+  "write_timeout": 60000
+}

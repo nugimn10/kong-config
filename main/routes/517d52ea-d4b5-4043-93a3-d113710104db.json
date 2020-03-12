@@ -1,0 +1,28 @@
+{
+  "created_at": 1583952171,
+  "destinations": null,
+  "headers": null,
+  "hosts": null,
+  "https_redirect_status_code": 426,
+  "id": "517d52ea-d4b5-4043-93a3-d113710104db",
+  "methods": null,
+  "name": null,
+  "path_handling": "v0",
+  "paths": [
+    "/api/merchant"
+  ],
+  "preserve_host": false,
+  "protocols": [
+    "http",
+    "https"
+  ],
+  "regex_priority": 0,
+  "service": {
+    "id": "6e20e00d-0613-4a3b-ad74-e9cf390d5458"
+  },
+  "snis": null,
+  "sources": null,
+  "strip_path": true,
+  "tags": null,
+  "updated_at": 1583952171
+}

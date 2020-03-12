@@ -1,0 +1,34 @@
+{
+  "config": {
+    "anonymous": null,
+    "claims_to_verify": null,
+    "cookie_names": [
+    ],
+    "header_names": [
+      "authorization"
+    ],
+    "key_claim_name": "iss",
+    "maximum_expiration": 0,
+    "run_on_preflight": true,
+    "secret_is_base64": false,
+    "uri_param_names": [
+      "jwt"
+    ]
+  },
+  "consumer": null,
+  "created_at": 1583980888,
+  "enabled": true,
+  "id": "b7b18d09-280a-4a30-9cfe-8a3de1b98e75",
+  "name": "jwt",
+  "protocols": [
+    "grpc",
+    "grpcs",
+    "http",
+    "https"
+  ],
+  "route": null,
+  "service": {
+    "id": "eaa909ef-8811-4b48-9fa3-bab44719be03"
+  },
+  "tags": null
+}

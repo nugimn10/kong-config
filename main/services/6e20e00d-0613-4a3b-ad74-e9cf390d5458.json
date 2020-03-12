@@ -1,0 +1,16 @@
+{
+  "client_certificate": null,
+  "connect_timeout": 60000,
+  "created_at": 1583952148,
+  "host": "nugimn-merchantservices",
+  "id": "6e20e00d-0613-4a3b-ad74-e9cf390d5458",
+  "name": "merchantservices",
+  "path": "/merchant",
+  "port": 4002,
+  "protocol": "http",
+  "read_timeout": 60000,
+  "retries": 5,
+  "tags": null,
+  "updated_at": 1583952148,
+  "write_timeout": 60000
+}

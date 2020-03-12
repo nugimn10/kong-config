@@ -1,0 +1,16 @@
+{
+  "client_certificate": null,
+  "connect_timeout": 60000,
+  "created_at": 1583951931,
+  "host": "nugimn-customerservices",
+  "id": "b7671471-7918-4447-a11b-82d9f745fc78",
+  "name": "customerservices",
+  "path": "/customer",
+  "port": 3002,
+  "protocol": "http",
+  "read_timeout": 60000,
+  "retries": 5,
+  "tags": null,
+  "updated_at": 1583951931,
+  "write_timeout": 60000
+}

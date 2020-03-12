@@ -1,0 +1,22 @@
+{
+  "config": {
+    "anonymous": null,
+    "hide_credentials": false
+  },
+  "consumer": null,
+  "created_at": 1583979971,
+  "enabled": true,
+  "id": "813764e2-fa6b-46a3-bbc7-21b25a570c55",
+  "name": "basic-auth",
+  "protocols": [
+    "grpc",
+    "grpcs",
+    "http",
+    "https"
+  ],
+  "route": {
+    "id": "517d52ea-d4b5-4043-93a3-d113710104db"
+  },
+  "service": null,
+  "tags": null
+}

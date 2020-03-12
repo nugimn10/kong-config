@@ -1,0 +1,28 @@
+{
+  "created_at": 1583952589,
+  "destinations": null,
+  "headers": null,
+  "hosts": null,
+  "https_redirect_status_code": 426,
+  "id": "b0a1726c-aa4a-46c7-a422-9feda4e4b106",
+  "methods": null,
+  "name": null,
+  "path_handling": "v0",
+  "paths": [
+    "/api/card"
+  ],
+  "preserve_host": false,
+  "protocols": [
+    "http",
+    "https"
+  ],
+  "regex_priority": 0,
+  "service": {
+    "id": "eaa909ef-8811-4b48-9fa3-bab44719be03"
+  },
+  "snis": null,
+  "sources": null,
+  "strip_path": true,
+  "tags": null,
+  "updated_at": 1583952589
+}

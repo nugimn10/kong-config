@@ -1,0 +1,16 @@
+{
+  "client_certificate": null,
+  "connect_timeout": 60000,
+  "created_at": 1583952562,
+  "host": "nugimn-customerservices",
+  "id": "eaa909ef-8811-4b48-9fa3-bab44719be03",
+  "name": "paymentservices",
+  "path": "/card",
+  "port": 3002,
+  "protocol": "http",
+  "read_timeout": 60000,
+  "retries": 5,
+  "tags": null,
+  "updated_at": 1583952562,
+  "write_timeout": 60000
+}
